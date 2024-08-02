@@ -7,6 +7,7 @@ public class Greatestof3_user {
     int a=sc.nextInt();
     int b=sc.nextInt();
     int c=sc.nextInt();
+    sc.close();
     if(a>b && a>c)
     {
         System.out.println("A is greatest");
