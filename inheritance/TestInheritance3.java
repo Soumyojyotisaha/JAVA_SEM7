@@ -21,6 +21,6 @@ class TestInheritance3 {
         Cat c = new Cat();
         c.meow();
         c.eat();
-        // c.bark(); // Uncommenting this line will cause a compile-time error
+       // c.bark(); // Uncommenting this line will cause a compile-time error
     }
 }
