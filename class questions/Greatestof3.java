@@ -1,4 +1,3 @@
-import java.util.*;
 public class Greatestof3 {
     public static void main(String args[])
    {
