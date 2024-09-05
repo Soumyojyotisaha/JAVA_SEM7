@@ -1,6 +1,6 @@
 public class AddArrayDigits {
     public static void main(String[] args) {
-        int[] array = {123, 456, 789};
+        int array[] = {123, 456, 789};
         int sum = 0;
 
         for (int num : array) {

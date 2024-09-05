@@ -2,7 +2,8 @@ import java.util.Arrays;
 
 public class MultiplyArrays {
     public static void main(String[] args) {
-        int[] array1 = {1, 3, -5, 4};
+        int[] array1 = {4, 3, -5, 1};
+        Arrays.sort(array1, 0,2);
         int[] array2 = {1, 4, -5, -2};
 
         int[] resultArray = new int[array1.length];
