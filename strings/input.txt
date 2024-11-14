@@ -1,0 +1,2 @@
+cat is a silly animal.
+dogs are cute.
